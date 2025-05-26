@@ -4,3 +4,7 @@ Happy to see you!!!
 Even me
 How r u
 I am doing good
+<<<<<<< HEAD
+=======
+Ya i am doing good
+>>>>>>> 7a42cd9 (squashing is done)
