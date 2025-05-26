@@ -3,4 +3,8 @@ Hello!! man
 Happy to see you!!! 
 Even me
 How r u
+<<<<<<< HEAD
 I am doing good
+=======
+Ya i am doing good
+>>>>>>> 28946ab (Adding 7)
